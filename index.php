@@ -14,8 +14,9 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-    MILAN
-    </div>
+<h1>this is homepage
+    
+</h1>    </div>
 
     <a href="admin_area/index.php">yan</a>
     <!-- bootstrap js link -->

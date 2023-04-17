@@ -14,7 +14,7 @@
 <body>
     <!-- navbar -->
     <div class="container-fluid">
-    aaaaaaa
+    <h1>hi admin</h1>
     </div>
 
     <!-- bootstrap js link -->
