@@ -1,14 +1,8 @@
-.flex-container{
-    display: flex;
-    margin: 5px;
-    padding: 10px;
-}
-
-.site-name{
-    font-size: 30px;
-    margin-right: 20px;
-}
-
-.search-bar{
-    padding: 10px;
-}
+.icon-hover:hover {
+    border-color: #3b71ca !important;
+    background-color: white !important;
+  }
+  
+  .icon-hover:hover i {
+    color: #3b71ca !important;
+  }
