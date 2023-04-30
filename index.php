@@ -133,7 +133,7 @@
                 <a class="nav-link my-0 py-2 ps-3 bg-white" href="#">Other products</a>
               </nav>
             </div>
-            <!-- Slide -->
+            <!-- Slider -->
             <div class="col-lg-9">
                 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
                   <div class="carousel-indicators">
