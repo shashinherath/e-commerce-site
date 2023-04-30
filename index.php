@@ -16,9 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-  <!-- bootstrap js link -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-  
+
 <!--Main Navigation-->
   <header>
     <div class="p-3 text-center bg-white border-bottom">
@@ -143,21 +141,21 @@
                   </div>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img src="images/living-room.jpg" class="d-block w-100" alt="Furniture">
+                      <img src="images/living-room.jpg" height="400px" class="d-block w-100" alt="Furniture">
                       <div class="carousel-caption d-none d-md-block">
                         <h5>First slide label</h5>
                         <p>Some representative placeholder content for the first slide.</p>
                       </div>
                     </div>
                     <div class="carousel-item">
-                      <img src="images/smart-watch.jpg" class="d-block w-100" alt="Smart watch">
+                      <img src="images/smart-watch.jpg" height="400px" class="d-block w-100" alt="Smart watch">
                       <div class="carousel-caption d-none d-md-block">
                         <h5>Second slide label</h5>
                         <p>Some representative placeholder content for the second slide.</p>
                       </div>
                     </div>
                     <div class="carousel-item">
-                      <img src="images/tennis.jpg" class="d-block w-100" alt="Sports">
+                      <img src="images/tennis.jpg" height="400px" class="d-block w-100" alt="Sports">
                       <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Some representative placeholder content for the third slide.</p>
@@ -183,5 +181,8 @@
   <footer>
 
   </footer>
+  <!-- Bootstrap js link -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
 </body>
 </html>
