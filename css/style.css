@@ -6,3 +6,8 @@
   .icon-hover:hover i {
     color: #3b71ca !important;
   }
+
+  .title {
+    text-decoration: none;
+    color: #0d6efd;
+  }
