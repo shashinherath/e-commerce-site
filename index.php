@@ -28,7 +28,7 @@
               <h2> <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-cart-check" viewBox="0 0 16 16">
                 <path d="M11.354 6.354a.5.5 0 0 0-.708-.708L8 8.293 6.854 7.146a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0l3-3z"/>
                 <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1H.5zm3.915 10L3.102 4h10.796l-1.313 7h-8.17zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
-              </svg> Eshop</h2>
+              </svg> Eshop</h2> 
             </a>
           </div>
           <!-- Site icon -->
@@ -151,7 +151,7 @@
                       </div>
                     </div>
                     <div class="carousel-item">
-                      <img src="images/smart-watch.jpg" height="400px" class="d-block w-100" alt="Smart watch">
+                      <img src="images/smart-devices.jpg" height="400px" class="d-block w-100" alt="Smart watch">
                       <div class="carousel-caption d-none d-md-block">
                         <h5>Second slide label</h5>
                         <p>Some representative placeholder content for the second slide.</p>
@@ -179,6 +179,145 @@
         </main>
       </div>
     </section>
+
+    <!-- Products -->
+    <section>
+      <div class="container my-5">
+        <header class="mb-4">
+          <h3>New products</h3>
+        </header>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap">
+                <div class="mask" style="height: 50px;">
+                  <div class="d-flex justify-content-start align-items-start h-100 m-2">
+                    <h6><span class="badge bg-success pt-2">Offer</span></h6>
+                  </div>
+                </div>
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/12.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-3">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$29.95</h5>
+                <p class="card-text mb-0">GoPro action camera 4K</p>
+                <p class="text-muted">
+                  Model: X-200
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/11.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$590.00</h5>
+                <p class="card-text mb-0">Canon EOS professional</p>
+                <p class="text-muted">
+                  Capacity: 128GB
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/10.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$29.95</h5>
+                <p class="card-text mb-0">Modern product name here</p>
+                <p class="text-muted">
+                  Sizes: S, M, XL
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/9.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$1099.00</h5>
+                <p class="card-text mb-0">Apple iPhone 13 Pro max</p>
+                <p class="text-muted">
+                  Color: Black, Memory: 128GB
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/5.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$29.95</h5>
+                <p class="card-text mb-0">Modern product name here</p>
+                <p class="text-muted">
+                  Sizes: S, M, XL
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/6.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$29.95</h5>
+                <p class="card-text mb-0">Modern product name here</p>
+                <p class="text-muted">
+                  Model: X-200
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/7.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$29.95</h5>
+                <p class="card-text mb-0">Modern product name here</p>
+                <p class="text-muted">
+                  Sizes: S, M, XL
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="card my-2 shadow-0">
+              <a href="#" class="img-wrap"> 
+                <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/8.webp" class="card-img-top" style="aspect-ratio: 1 / 1"> 
+              </a>
+              <div class="card-body p-0 pt-2">
+                <a href="#!" class="btn btn-light border px-2 pt-2 float-end icon-hover"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
+                <h5 class="card-title">$29.95</h5>
+                <p class="card-text mb-0">Modern product name here</p>
+                <p class="text-muted">
+                  Material: Jeans
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Products -->
+
   </main>
   
   <footer>
